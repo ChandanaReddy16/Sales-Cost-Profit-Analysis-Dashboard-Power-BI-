@@ -1,8 +1,8 @@
-# Financial Performance Analysis 
+📊 Sales-Cost-Profit-Analysis-Dashboard-Power-BI-
 
 ![Dashboard](Bookmark.png)
 
-📊 Sales-Cost-Profit-Analysis-Dashboard-Power-BI-
+# Financial Performance Analysis 
 
 📌 Overview
 
