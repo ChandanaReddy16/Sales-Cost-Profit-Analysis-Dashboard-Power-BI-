@@ -1,6 +1,6 @@
 # Financial Performance Analysis 
 
-![Dashboard](https://raw.githubusercontent.com/ChandanaReddy16/Sales-Cost-Profit-Analysis-Dashboard-Power-BI/main/Bookmark.png)
+Bookmark.png
 
 
 📊 Sales-Cost-Profit-Analysis-Dashboard-Power-BI-
