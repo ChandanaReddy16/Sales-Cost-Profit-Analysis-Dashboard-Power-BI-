@@ -49,6 +49,5 @@ Developed an interactive Power BI dashboard to analyze business performance by t
 
 Transformed raw financial data into meaningful insights, enabling better decision-making and performance tracking.
 
-📷 Dashboard Preview
 
-(Add more screenshots if available)
+
